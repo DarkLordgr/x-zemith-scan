@@ -1,0 +1,27 @@
+# X watchlist for the morning scan.
+# One handle per line. Lines starting with # are comments.
+# Order here = order in the digest. Edit freely - these are just defaults.
+
+# --- Crypto / DeFi news and data ---
+CoinDesk
+TheBlock__
+WatcherGuru
+WuBlockchain
+DefiLlama
+tokenterminal
+
+# --- DeFi protocols ---
+Uniswap
+AaveAave
+LidoFinance
+CurveFinance
+MorphoLabs
+OndoFinance
+Pendle_finance
+Balancer
+
+# --- Macro / war / markets ---
+DeItaone
+zerohedge
+LiveSquawk
+BitcoinMagazine
